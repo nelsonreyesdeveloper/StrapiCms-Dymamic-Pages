@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_componet_buttons",
+  "info": {
+    "displayName": "Button"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "url": {
+      "type": "text"
+    },
+    "isExternal": {
+      "type": "boolean"
+    },
+    "rel": {
+      "type": "enumeration",
+      "enum": [
+        "Follow",
+        "Nofollow"
+      ]
+    }
+  }
+}

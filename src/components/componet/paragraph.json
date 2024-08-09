@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_componet_paragraphs",
+  "info": {
+    "displayName": "Paragraph",
+    "icon": "briefcase"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text"
+    }
+  }
+}

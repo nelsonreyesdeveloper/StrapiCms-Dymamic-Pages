@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_componet_headlines",
+  "info": {
+    "displayName": "Headline",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "position": {
+      "type": "enumeration",
+      "enum": [
+        "Left",
+        "Right",
+        "Centered"
+      ]
+    }
+  }
+}

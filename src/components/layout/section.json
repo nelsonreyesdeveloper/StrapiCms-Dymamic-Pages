@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_layout_sections",
+  "info": {
+    "displayName": "Section",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "headline": {
+      "type": "component",
+      "repeatable": true,
+      "component": "componet.headline"
+    },
+    "paragraph": {
+      "type": "component",
+      "repeatable": true,
+      "component": "componet.paragraph"
+    },
+    "image": {
+      "type": "component",
+      "repeatable": true,
+      "component": "componet.image"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": true,
+      "component": "componet.button"
+    }
+  }
+}

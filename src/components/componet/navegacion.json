@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_componet_navegacions",
+  "info": {
+    "displayName": "Navegacion"
+  },
+  "options": {},
+  "attributes": {
+    "Link": {
+      "type": "component",
+      "repeatable": true,
+      "component": "componet.button"
+    }
+  }
+}
